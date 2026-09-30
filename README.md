@@ -4,7 +4,6 @@
 
 The platform helps users identify their current skill levels, understand skill gaps, discover relevant internships and placement opportunities, and improve their alignment with industry requirements.
 
-> **Built by Alok Kumar**
 
 ---
 
